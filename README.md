@@ -57,8 +57,7 @@ The Hotel Management System is a Java-based application designed to automate roo
 - The project is built using the Java Swing API, which provides a modern and flexible UI compared to the older AWT components.
 - All AWT components have been replaced with Swing components to ensure compatibility and improved functionality.
 
-## Contributing
-Contributions are welcome. Please fork the repository and submit a pull request with your improvements.
+
 
 
 
