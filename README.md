@@ -1,4 +1,4 @@
-Here's a README file for your hotel management system project:
+
 
 ---
 
