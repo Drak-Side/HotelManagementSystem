@@ -67,6 +67,6 @@ Use the GUI to navigate through different options like adding customers, assigni
 
 - Java Swing for GUI development
 - MySQL for database management
-- [Drak-Side](https://github.com/Drak-Side) for project development and maintenance
+- [Drak-Side](https://github.com/fantacy-codding-guild) for project development and maintenance
 
 ---
